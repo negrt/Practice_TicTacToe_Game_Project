@@ -1,5 +1,5 @@
 # TicTacToe
-A Java GUI tic tac toe game.
+A Java graphical user interface tic tac toe game.
 
 # What I learned
 * Two dimensional arrays
