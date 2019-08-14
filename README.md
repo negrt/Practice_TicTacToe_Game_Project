@@ -8,7 +8,7 @@ A Java graphical user interface tic tac toe game. Please excuse the code. It's n
 * How to use Jframe and Jpanel
 
 # Description and Images
-Upon starting, the game application allows the players to enter their names. After clicking the start button the game begins. When someone has won, the JLabels update and state who won. When the create button is clicked, information about previous games is displayed on the text field to the right of the button.
+Upon starting, the game application allows the players to enter their names. After clicking the start button the game begins. When someone has won, the JLabels at the bottom update and state who won. When the create button is clicked, information about previous games is displayed on the text field to the right of the button.
 
 #### Start Up
 ![Image of TicTacToe StartUp](https://github.com/negrt/cv/blob/master/images/TicTacToeStartUp.png?raw=true)
